@@ -1,0 +1,6 @@
+D:\need\buffer\train_C#\dz5_1\dz5_1\bin\Debug\dz5_1.exe.config
+D:\need\buffer\train_C#\dz5_1\dz5_1\bin\Debug\dz5_1.exe
+D:\need\buffer\train_C#\dz5_1\dz5_1\bin\Debug\dz5_1.pdb
+D:\need\buffer\train_C#\dz5_1\dz5_1\obj\Debug\dz5_1.exe
+D:\need\buffer\train_C#\dz5_1\dz5_1\obj\Debug\dz5_1.pdb
+D:\need\buffer\train_C#\dz5_1\dz5_1\obj\Debug\dz5_1.csprojResolveAssemblyReference.cache

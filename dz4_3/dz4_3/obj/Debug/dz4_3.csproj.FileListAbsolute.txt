@@ -1,0 +1,6 @@
+D:\need\buffer\train_C#\dz4_3\dz4_3\bin\Debug\dz4_3.exe.config
+D:\need\buffer\train_C#\dz4_3\dz4_3\bin\Debug\dz4_3.exe
+D:\need\buffer\train_C#\dz4_3\dz4_3\bin\Debug\dz4_3.pdb
+D:\need\buffer\train_C#\dz4_3\dz4_3\obj\Debug\dz4_3.csprojResolveAssemblyReference.cache
+D:\need\buffer\train_C#\dz4_3\dz4_3\obj\Debug\dz4_3.exe
+D:\need\buffer\train_C#\dz4_3\dz4_3\obj\Debug\dz4_3.pdb
