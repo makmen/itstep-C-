@@ -1,0 +1,6 @@
+D:\need\buffer\train_C#\dz6_6\dz6_6\bin\Debug\dz6_6.exe.config
+D:\need\buffer\train_C#\dz6_6\dz6_6\bin\Debug\dz6_6.exe
+D:\need\buffer\train_C#\dz6_6\dz6_6\bin\Debug\dz6_6.pdb
+D:\need\buffer\train_C#\dz6_6\dz6_6\obj\Debug\dz6_6.csprojResolveAssemblyReference.cache
+D:\need\buffer\train_C#\dz6_6\dz6_6\obj\Debug\dz6_6.exe
+D:\need\buffer\train_C#\dz6_6\dz6_6\obj\Debug\dz6_6.pdb

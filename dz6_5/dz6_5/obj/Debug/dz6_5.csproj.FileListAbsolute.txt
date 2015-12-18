@@ -1,0 +1,5 @@
+D:\need\buffer\train_C#\dz6_5\dz6_5\bin\Debug\dz6_5.exe.config
+D:\need\buffer\train_C#\dz6_5\dz6_5\bin\Debug\dz6_5.exe
+D:\need\buffer\train_C#\dz6_5\dz6_5\bin\Debug\dz6_5.pdb
+D:\need\buffer\train_C#\dz6_5\dz6_5\obj\Debug\dz6_5.exe
+D:\need\buffer\train_C#\dz6_5\dz6_5\obj\Debug\dz6_5.pdb
