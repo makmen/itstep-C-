@@ -1,0 +1,6 @@
+D:\need\buffer\train_C#\dz8\dz8\bin\Debug\dz8.exe.config
+D:\need\buffer\train_C#\dz8\dz8\bin\Debug\dz8.exe
+D:\need\buffer\train_C#\dz8\dz8\bin\Debug\dz8.pdb
+D:\need\buffer\train_C#\dz8\dz8\obj\Debug\dz8.exe
+D:\need\buffer\train_C#\dz8\dz8\obj\Debug\dz8.pdb
+D:\need\buffer\train_C#\dz8\dz8\obj\Debug\dz8.csprojResolveAssemblyReference.cache
