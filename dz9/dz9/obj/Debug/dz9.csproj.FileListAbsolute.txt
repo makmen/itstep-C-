@@ -1,0 +1,6 @@
+D:\need\buffer\train_C#\dz9\dz9\bin\Debug\dz9.exe.config
+D:\need\buffer\train_C#\dz9\dz9\bin\Debug\dz9.exe
+D:\need\buffer\train_C#\dz9\dz9\bin\Debug\dz9.pdb
+D:\need\buffer\train_C#\dz9\dz9\obj\Debug\dz9.csprojResolveAssemblyReference.cache
+D:\need\buffer\train_C#\dz9\dz9\obj\Debug\dz9.exe
+D:\need\buffer\train_C#\dz9\dz9\obj\Debug\dz9.pdb
